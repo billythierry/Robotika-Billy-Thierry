@@ -41,4 +41,6 @@ Final Project kami berjudul Human FOllower Robot dengan YOLO V3 dan ESP32. Robot
 
 Referensi : https://github.com/yash42828/YOLO-object-detection-with-OpenCV
 
+## Dokumentasi Demo Final Project 
 
+![Foto][https://drive.google.com/file/d/111uJ8XJhXDK1q2HpH4KFgfTLeGNCgWcV/view?usp=drive_link]
