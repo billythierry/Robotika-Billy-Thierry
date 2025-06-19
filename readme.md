@@ -6,15 +6,14 @@
 
 ---
 
-## Mikrokontroler DOIT ESP32 DEVKIT V1
+## Instalasi Arduino IDE
 
-ESP32 adalah mikrokontroler System on Chip (SoC) biaya dan konsumsi daya yang rendah.  
-ESP32 terintegrasi dengan WiFi dan Bluetooth. Di dalamnya terdapat rangkaian dari modul sakelar antena,  
-balun RF, penguat daya, penguat penerima low-noise, filter, dan modul manajemen daya.
+Untuk memulai pemrograman ESP32, kita memerlukan IDE, salah satunya adalah Arduino IDE. Meskipun namanya
+arduino, tapi masih bisa digunakan untuk ESP32. Arduino IDE bisa didownload di websitenya langsung (https://www.arduino.cc/en/software/). Setelah selesai menginstal, kita melakukan instalasi lagi di dalam Arduino IDE untuk ESP32. Caranya melalui Menu Tools,
+lalu Board, Boards Manager. Cari Board ESP32, lalu install.
 
-![Gambar ESP32](https://www.mouser.co.id/images/espressifsystems/sm/ESP32-DevKitC-S_NEW_t.jpg)
+---
 
+## Praktek iTCLab dengan Arduino
 
-## Pemrograman ESP32 di Arduino IDE
-
-
+Pertama yang dilakukan adalah melakukan pengaturan di File > Preferences untuk memasukkan Additional Boards Manager URL (https://dl.espressif.com/dl/package_esp32_index.json). 
