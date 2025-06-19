@@ -28,13 +28,17 @@ Disini kami disediakan alat untuk mendeteksi suhu. Namun kali ini kami belajar u
 
 ## AI Object Detection & Kendali Robot
 
-Untuk persiapan Final Project, Pak Basuki memberikan materi mengenai AI menggunakan Python Jupyter. AI tersebut menggunakan model YOLO (You Only Look Once). Kemudian untuk kendali robot, Pak Basuki membawa robot mobil dengan dua roda utama dan satu roda kecil di depan. Robot tersebut digerakkan menggunakan Arduino IDE. Untuk kontrolnya : 
+Untuk persiapan Final Project, Pak Basuki memberikan materi mengenai AI menggunakan Python Jupyter. AI tersebut menggunakan model YOLO (You Only Look Once). Kemudian untuk kendali robot, Pak Basuki membawa robot mobil dengan dua roda utama dan satu roda kecil di depan. Beliau juga membagikan source code untuk menggerakkan robot (BNU5.ino). Robot tersebut digerakkan menggunakan Arduino IDE. Untuk kontrolnya : 
 1. Ketik 1 = Maju
 2. Ketik 2 = Belok Kanan 
 3. Ketik 3 = Belok Kiri
 4. Ketik 4 = Mundur
 5. Ketik 0 = Berhenti
 
-## Final Project Robot 
+## Final Project Human Follower Robot dengan YOLO V3 dan ESP32
+
+Final Project kami berjudul Human FOllower Robot dengan YOLO V3 dan ESP32. Robot mendeteksi objek melalui kamera. Objek yang ditrack adalah manusia saja. Program akan mendeteksi objek yang ada di kamera terletak disebelah kanan, kiri, atau tengah. Jika objek berada di tengah, program memberi perintah ke robot untuk maju ke depan. Jika objek berada di sebelah kiri, maka program memberi perintah untuk belok ke kiri, begitu pula sebaliknya untuk sebelah kanan. Ketika tidak mendeteksi manusia, program memberi perintah untuk berhenti. 
+
+Referensi : https://github.com/yash42828/YOLO-object-detection-with-OpenCV
 
 
