@@ -31,7 +31,7 @@ Disini kami disediakan alat untuk mendeteksi suhu. Namun kali ini kami belajar u
 Untuk persiapan Final Project, Pak Basuki memberikan materi mengenai AI menggunakan Python Jupyter. AI tersebut menggunakan model YOLO (You Only Look Once). Kemudian untuk kendali robot, Pak Basuki membawa robot mobil dengan dua roda utama dan satu roda kecil di depan. Robot tersebut digerakkan menggunakan Arduino IDE. Untuk kontrolnya : 
 1. Ketik 1 = Maju
 2. Ketik 2 = Belok Kanan 
-3. Ketik 3 = Bellok Kiri
+3. Ketik 3 = Belok Kiri
 4. Ketik 4 = Mundur
 5. Ketik 0 = Berhenti
 
