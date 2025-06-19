@@ -43,4 +43,5 @@ Referensi : https://github.com/yash42828/YOLO-object-detection-with-OpenCV
 
 ## Dokumentasi Demo Final Project 
 
-![Foto][https://drive.google.com/file/d/111uJ8XJhXDK1q2HpH4KFgfTLeGNCgWcV/view?usp=drive_link]
+![Gambar dari Google Drive](https://drive.google.com/uc?export=view&id=111uJ8XJhXDK1q2HpH4KFgfTLeGNCgWcV)
+
